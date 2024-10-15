@@ -7,7 +7,9 @@
 - 💻 Ayudante de cátedra de Sistemas Operativos - UTN
 - 📌 Tutora M1000IA - Intel
 
-Tengo 22 años, me gusta mucho leer, escribir, tocar la guitarra y jugar ajedrez 📚♟️
+Tengo 22 años, me gusta mucho leer, escribir y jugar ajedrez.
+- Podés conocer un poco más sobre mi trabajo en https://www.linkedin.com/in/lourdes-florencia-larocca-288761250/
+- Contacto: florencialaroccaa@gmail.com | llarocca@frba.utn.edu.ar
 
 
 <!--
