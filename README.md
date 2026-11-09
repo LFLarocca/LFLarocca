@@ -2,7 +2,7 @@
 
 - 🏫 Estudiante de Ingeniería en sistemas - UTN
 - 🎓 Egresada Bachiller en Informática - ECEA
-- 👩‍💻 Pasante de Formación y Desarrollo - CET
+- 👩‍💻 Pasante de Formación y Desarrollo - Chicas En Tecnología
 - 💜 Embajadora - CET
 - 💻 Ayudante de cátedra de Sistemas Operativos - UTN
 - 📌 Tutora M1000IA - Intel
